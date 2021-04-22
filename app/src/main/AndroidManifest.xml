@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".NewDreamActivity"></activity>
+        <activity android:name=".DetailDreamActivity"></activity>
+
     </application>
 
 </manifest>
